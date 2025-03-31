@@ -1,2 +1,2 @@
 # checkpoint
-Temporary repository for a Flutter project
+Repository for a Flutter school project
