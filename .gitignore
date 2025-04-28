@@ -171,4 +171,5 @@ linux/
 macos/
 web/
 windows/
-analysis_options.yaml
+
+lib/firebase_options.dart
