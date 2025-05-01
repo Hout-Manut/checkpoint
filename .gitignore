@@ -173,3 +173,5 @@ web/
 windows/
 analysis_options.yaml
 mocks/
+
+lib/firebase_options.dart
