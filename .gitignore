@@ -172,3 +172,4 @@ macos/
 web/
 windows/
 analysis_options.yaml
+mocks/
