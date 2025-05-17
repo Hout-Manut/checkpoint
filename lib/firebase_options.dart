@@ -41,48 +41,54 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCwTjy7ucAR0GuBtD9ANPiYQnLnwqwk0kk',
-    appId: '1:499889547572:web:f1f080f57e1c2777a79d61',
-    messagingSenderId: '499889547572',
-    projectId: 'checkpoint-f3d21',
-    authDomain: 'checkpoint-f3d21.firebaseapp.com',
-    storageBucket: 'checkpoint-f3d21.firebasestorage.app',
-    measurementId: 'G-CMV8YKPX0F',
+    apiKey: 'AIzaSyAgELLWa5P_0cyjodxOmuBhoTcpUnLcMCg',
+    appId: '1:700364587110:web:d7d800c402a0d172146da7',
+    messagingSenderId: '700364587110',
+    projectId: 'checkpoint-test-d5beb',
+    authDomain: 'checkpoint-test-d5beb.firebaseapp.com',
+    databaseURL: 'https://checkpoint-test-d5beb-default-rtdb.asia-southeast1.firebasedatabase.app',
+    storageBucket: 'checkpoint-test-d5beb.firebasestorage.app',
+    measurementId: 'G-R2XCDW4X93',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC0lrmHx3LjzZ-i_nYSdChZ7k9Zis5y7jU',
-    appId: '1:499889547572:android:00460c8e5ccbf4d5a79d61',
-    messagingSenderId: '499889547572',
-    projectId: 'checkpoint-f3d21',
-    storageBucket: 'checkpoint-f3d21.firebasestorage.app',
+    apiKey: 'AIzaSyB2Jl6J_guWviPsyMQ-3LwRalBPbZ9-j2U',
+    appId: '1:700364587110:android:fcdf00ca0603dcbd146da7',
+    messagingSenderId: '700364587110',
+    projectId: 'checkpoint-test-d5beb',
+    databaseURL: 'https://checkpoint-test-d5beb-default-rtdb.asia-southeast1.firebasedatabase.app',
+    storageBucket: 'checkpoint-test-d5beb.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCj0OYjLoJYakL7SvfyHGHkyh1S93hBQgU',
-    appId: '1:499889547572:ios:06c2ecf2adf0b180a79d61',
-    messagingSenderId: '499889547572',
-    projectId: 'checkpoint-f3d21',
-    storageBucket: 'checkpoint-f3d21.firebasestorage.app',
-    iosBundleId: 'com.example.checkpoint',
+    apiKey: 'AIzaSyBPG3tD3kqZLwOAG0n8WcA4quobB1e4LmI',
+    appId: '1:700364587110:ios:bc83de74ca5dfde2146da7',
+    messagingSenderId: '700364587110',
+    projectId: 'checkpoint-test-d5beb',
+    databaseURL: 'https://checkpoint-test-d5beb-default-rtdb.asia-southeast1.firebasedatabase.app',
+    storageBucket: 'checkpoint-test-d5beb.firebasestorage.app',
+    iosBundleId: 'com.example.flutterfireTest',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCj0OYjLoJYakL7SvfyHGHkyh1S93hBQgU',
-    appId: '1:499889547572:ios:06c2ecf2adf0b180a79d61',
-    messagingSenderId: '499889547572',
-    projectId: 'checkpoint-f3d21',
-    storageBucket: 'checkpoint-f3d21.firebasestorage.app',
-    iosBundleId: 'com.example.checkpoint',
+    apiKey: 'AIzaSyBPG3tD3kqZLwOAG0n8WcA4quobB1e4LmI',
+    appId: '1:700364587110:ios:bc83de74ca5dfde2146da7',
+    messagingSenderId: '700364587110',
+    projectId: 'checkpoint-test-d5beb',
+    databaseURL: 'https://checkpoint-test-d5beb-default-rtdb.asia-southeast1.firebasedatabase.app',
+    storageBucket: 'checkpoint-test-d5beb.firebasestorage.app',
+    iosBundleId: 'com.example.flutterfireTest',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCwTjy7ucAR0GuBtD9ANPiYQnLnwqwk0kk',
-    appId: '1:499889547572:web:a4072f590312b198a79d61',
-    messagingSenderId: '499889547572',
-    projectId: 'checkpoint-f3d21',
-    authDomain: 'checkpoint-f3d21.firebaseapp.com',
-    storageBucket: 'checkpoint-f3d21.firebasestorage.app',
-    measurementId: 'G-0VW7XRY0LF',
+    apiKey: 'AIzaSyAgELLWa5P_0cyjodxOmuBhoTcpUnLcMCg',
+    appId: '1:700364587110:web:a4a7d3bd877ff5b2146da7',
+    messagingSenderId: '700364587110',
+    projectId: 'checkpoint-test-d5beb',
+    authDomain: 'checkpoint-test-d5beb.firebaseapp.com',
+    databaseURL: 'https://checkpoint-test-d5beb-default-rtdb.asia-southeast1.firebasedatabase.app',
+    storageBucket: 'checkpoint-test-d5beb.firebasestorage.app',
+    measurementId: 'G-MN5FVEF80L',
   );
+
 }
